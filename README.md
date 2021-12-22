@@ -1,6 +1,6 @@
 # idlofi_flutter_challenge
 
-A new Flutter project.
+Flutter Challenge from Study Group MP Motion Lab
 
 ## Getting Started
 
